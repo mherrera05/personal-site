@@ -1,3 +1,7 @@
 [submodule "themes/prologue"]
 	path = themes/prologue
 	url = https://github.com/sethmacleod/prologue.git
+[submodule "public"]
+	path = public
+	url = git@github.com:mherrera05/mherrera05.github.io.git
+	branch = master
